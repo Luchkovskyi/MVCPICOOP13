@@ -9,7 +9,7 @@ $controller = new $controllerClassName;
 $method = 'action'. $act;
 $controller->$method();
 
-echo $wwww;
+echo $www;
 
 
 
