@@ -1,7 +1,3 @@
-<?php
-/**
- * Created by PhpStorm.
- * User: Stas
- * Date: 08.08.2016
- * Time: 18:42
- */
+
+<h1><?php echo $item->title;  ?></h1>
+<div> <? echo $item->text;  ?> </div>
