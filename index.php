@@ -8,3 +8,8 @@ require_once __DIR__ . '/controllers/' . $controllerClassName . '.php';
 $controller = new $controllerClassName;
 $method = 'action'. $act;
 $controller->$method();
+
+echo $wwww;
+
+
+
