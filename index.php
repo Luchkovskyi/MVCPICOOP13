@@ -12,6 +12,3 @@ $method = 'action'. $act;
 $controller->$method();
 
 
-
-
-
